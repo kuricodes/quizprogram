@@ -3,8 +3,7 @@
  */
 package quizprogram;
 
-public class Library {
-    public boolean someLibraryMethod() {
-        return true;
-    }
+abstract class Question {
+	public abstract double SubmitAnswer();
+	public abstract BorderPane BuildPane();
 }
