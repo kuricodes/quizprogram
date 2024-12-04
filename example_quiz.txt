@@ -1,0 +1,37 @@
+Quiz Name:
+Enron Scandal Quiz
+High Score:
+1
+steve
+Show Answers During Test?
+False
+Quiz Questions:
+
+Question Type:
+Multiple Choice Single Answer
+Question Text:
+When was Enron founded?
+Options:
+1982
+1983
+1984
+1985
+Correct Answer:
+1985
+Question Points Value:
+10
+
+Question Type:
+Multiple Choice Multiple Answers
+Question Text:
+What companies merged to form Enron?
+Options:
+Houston Natural Gas Corporation
+South Penn Oil Company
+InterNorth Inc.
+Valero Energy
+Correct Answer:
+InterNorth Inc.
+Houston Natural Gas Corporation
+Question Points Value:
+20
